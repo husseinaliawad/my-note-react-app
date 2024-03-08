@@ -1,0 +1,11 @@
+/* Logo.css */
+.logo {
+    display: flex;
+    align-items: center;
+    /* Add any additional styles you want for your logo container */
+  }
+  
+  .logo img {
+    width: 100px;
+    /* Add any additional styles you want for your logo image */
+  }
